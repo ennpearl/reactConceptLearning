@@ -1,0 +1,10 @@
+/** React concept: Tailwind CSS v4 setup for app styling. */
+@import 'tailwindcss';
+
+/* Small, intentional base styles (kept minimal; Tailwind handles most UI). */
+html,
+body,
+#root {
+  height: 100%;
+}
+
