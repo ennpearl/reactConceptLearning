@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite (concept lab app)
+
+**Start here for learning steps and GitHub setup:** see the repository root [`README.md`](../README.md).
+
+---
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
